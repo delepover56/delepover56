@@ -46,6 +46,4 @@ Whether it’s a **React app**, a **WordPress site**, or a **Discord bot**, I’
 ![](https://nirzak-streak-stats.vercel.app/?user=Delepover56&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delepover56&theme=transparent&hide_border=true&layout=compact)
 
----
-
 <!-- Proudly crafted by Taha Khan 🤝 -->
