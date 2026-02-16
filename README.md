@@ -19,7 +19,7 @@ Whether it’s a **React app**, or a **WordPress site**, I’m your friendly nei
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.a.r.t.h_r.e.v.a.n)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/just.t.a.h.a/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-khan03)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taha82426980@gmail.com)
 
