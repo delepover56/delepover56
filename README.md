@@ -8,7 +8,7 @@ Frontend Web Developer | React.js Enthusiast | WordPress & Shopify Developer
 
 ## 💫 About Me
 
-Frontend web developer from Karachi, Pakistan 🇵🇰 focused on building clean, responsive, and user-friendly web experiences.
+Frontend web developer from Karachi, Pakistan focused on building clean, responsive, and user-friendly web experiences.
 
 Currently working with:
 
