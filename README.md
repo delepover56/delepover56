@@ -73,25 +73,28 @@ Passionate about modern frontend development, UI design, performance optimizatio
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    width="420"
-    src="https://github-readme-stats.shion.dev/api?username=delepover56&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=false&count_private=false"
-    alt="GitHub Stats"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        width="420"
+        src="https://github-readme-stats.shion.dev/api?username=delepover56&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=false&count_private=false"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        width="340"
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=delepover56&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
-    width="340"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=delepover56&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="480"
+    width="520"
     src="https://streak-stats.demolab.com/?user=delepover56&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
     alt="GitHub Streak"
   />
