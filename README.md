@@ -8,18 +8,18 @@ Frontend Web Developer | React.js Enthusiast | WordPress & Shopify Developer
 
 ## 💫 About Me
 
-I'm a frontend web developer from Karachi, Pakistan 🇵🇰 with experience building responsive, user-focused websites using WordPress, Shopify, and modern frontend technologies.
+Frontend web developer from Karachi, Pakistan 🇵🇰 focused on building clean, responsive, and user-friendly web experiences.
 
-I specialize in building clean and interactive user interfaces using:
+Currently working with:
 
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3 & JavaScript (ES6+)
 - React.js & Tailwind CSS
 - WordPress (Elementor Pro, Divi)
 - Shopify Liquid & Theme Customization
 
-Currently, I'm focused on strengthening my React.js skills by building modern UI projects and scalable frontend applications alongside real-world client work.
+Passionate about modern frontend development, UI design, performance optimization, and scalable interfaces.
 
-I enjoy transforming ideas into polished digital experiences with strong attention to responsiveness, usability, performance, and clean design.
+🌐 Portfolio: http://taha-khan.vercel.app
 
 ---
 
@@ -41,42 +41,10 @@ I enjoy transforming ideas into polished digital experiences with strong attenti
 - Divi Builder
 - Shopify Liquid
 - Responsive Design
-- Cross-Browser Compatibility
 - Performance Optimization
+- Cross-Browser Compatibility
 - Theme Customization
 - UI Troubleshooting
-
----
-
-## 💼 Experience
-
-### Web Developer — VALs Code  
-📍 Karachi, Pakistan | 2025 – Present
-
-- Developed responsive WordPress and Shopify websites for client projects
-- Customized Shopify themes using Liquid and Theme Editor
-- Built layouts with Elementor Pro, Divi, and Gem Builder
-- Improved website responsiveness, accessibility, and overall performance
-- Collaborated in Agile workflows to meet project requirements and deadlines
-
----
-
-## 🚀 Featured Projects
-
-### ✨ Chic Lighting
-Modern responsive frontend for an indoor decoration and lighting brand.
-
-🔗 https://chiclighting.vercel.app
-
-### 🕌 Tasbeeh Wala
-Minimal e-commerce storefront focused on Islamic products and clean UX.
-
-🔗 https://tasbeeh-wala.vercel.app-group
-
-### 🌐 Portfolio Website
-Personal portfolio built with React.js showcasing projects and frontend work.
-
-🔗 http://taha-khan.vercel.app
 
 ---
 
@@ -101,5 +69,5 @@ Personal portfolio built with React.js showcasing projects and frontend work.
 ---
 
 <p align="center">
-Building clean, responsive, and modern web experiences.
+Building modern, responsive, and user-focused web interfaces.
 </p>
