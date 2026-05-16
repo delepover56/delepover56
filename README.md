@@ -71,7 +71,31 @@ Passionate about modern frontend development, UI design, performance optimizatio
 
 ---
 
-## 📊 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=Delepover56&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Delepover56&theme=transparent&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delepover56&theme=transparent&hide_border=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.shion.dev/api?username=delepover56&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=delepover56&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=delepover56&theme=transparent&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=delepover56&style=for-the-badge&color=blueviolet"
+  />
+</p>
 ---
 
 <p align="center">
