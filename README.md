@@ -71,14 +71,7 @@ Passionate about modern frontend development, UI design, performance optimizatio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Delepover56&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delepover56&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
+## 📊 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=Delepover56&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Delepover56&theme=transparent&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delepover56&theme=transparent&hide_border=true&layout=compact)
 ---
 
 <p align="center">
