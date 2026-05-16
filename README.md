@@ -75,25 +75,19 @@ Passionate about modern frontend development, UI design, performance optimizatio
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.shion.dev/api?username=delepover56&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Delepover56&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff"
   />
 
   <img
-    height="165"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=delepover56&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=delepover56&theme=transparent&hide_border=true"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delepover56&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=delepover56&style=for-the-badge&color=blueviolet"
+    src="https://streak-stats.demolab.com?user=Delepover56&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
   />
 </p>
 ---
