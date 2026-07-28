@@ -19,7 +19,7 @@ Currently working with:
 
 Passionate about modern frontend development, UI design, performance optimization, and scalable interfaces.
 
-🌐 Portfolio: <a href="http://taha-khan.vercel.app">taha-khan.vercel.app</a>
+🌐 Portfolio: <a href="[http://taha-khan.vercel.app](https://taha-khan.vercel.app)">taha-khan.vercel.app</a>
 
 ---
 
