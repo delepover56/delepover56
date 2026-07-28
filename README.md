@@ -1,25 +1,18 @@
 <h1 align="center">Muhammed Taha Khan</h1>
 
 <h3 align="center">
-Frontend Web Developer | React.js Enthusiast | WordPress & Shopify Developer
+Frontend Developer | React.js | WordPress | Shopify
 </h3>
 
 ---
 
 ## 💫 About Me
 
-Frontend web developer from Karachi, Pakistan 🇵🇰 focused on building clean, responsive, and user-focused web experiences.
+Frontend Developer based in Karachi, Pakistan 🇵🇰 with 3+ years of experience building responsive websites and eCommerce solutions.
+I work with React.js, JavaScript, WordPress, Shopify, and modern frontend technologies to create fast, user-friendly web experiences.
+Currently focused on improving my React expertise by building real-world projects while continuing to deliver professional WordPress and Shopify websites.
 
-Currently working with:
-
-- HTML5, CSS3 & JavaScript (ES6+)
-- React.js & Tailwind CSS
-- WordPress (Elementor Pro, Divi)
-- Shopify Liquid & Theme Customization
-
-Passionate about modern frontend development, UI design, performance optimization, and scalable interfaces.
-
-🌐 Portfolio: <a href="[http://taha-khan.vercel.app](https://taha-khan.vercel.app)">taha-khan.vercel.app</a>
+🌐 Portfolio: <a href="https://taha-khan.vercel.app">taha-khan.vercel.app</a>
 
 ---
 
@@ -60,14 +53,16 @@ Passionate about modern frontend development, UI design, performance optimizatio
 
 ### Tools & Skills
 
+- Git
+- GitHub
+- VS Code
+- Figma
 - Elementor Pro
 - Divi Builder
 - Shopify Liquid
+- REST APIs
 - Responsive Design
 - Performance Optimization
-- Cross-Browser Compatibility
-- Theme Customization
-- UI Troubleshooting
 
 ---
 
